@@ -1,7 +1,7 @@
 package dcll.tvau;
 
 /**
- * Hello world!
+ * Awesome stack with Java.
  *
  * @author Théo Vaucher
  *
@@ -28,7 +28,6 @@ public final class App {
 
         System.out.println("When I peek from stack, "
                 + "it give '" + stack.peek().getObject() + "'");
-
 
 
         String answer = "the answer to life, the universe and everything";
