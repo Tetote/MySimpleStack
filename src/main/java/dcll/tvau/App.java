@@ -2,6 +2,7 @@ package dcll.tvau;
 
 /**
  * Awesome stack with Java.
+ * Very good stack.
  *
  * @author Théo Vaucher
  *
